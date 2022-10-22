@@ -1,3 +1,7 @@
 # SwiftScriptingPackage
 
-A description of this package.
+Swift ScriptBridge package.
+
+- DEVONthink3
+- KeyboardMaestro
+
