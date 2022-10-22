@@ -1,8 +1,5 @@
 //
 //  Application.swift
-//  
-//
-//  Created by 卢曙亮 on 2022/10/22.
 //
 
 import Foundation
